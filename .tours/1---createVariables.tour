@@ -13,13 +13,13 @@
     },
     {
       "file": "main.js",
-      "line": 4,
-      "description": "Create two new constants called `maxPlayersOnCourt` and `numQuarters` that are used to validate that the coach has 5 players on the court before each quarter starts and only tries to play 4 quarters."
+      "description": "Create three new variables that will keep track of the `currentQuarter` (valid numbers will be 1-4), `playersOnCourt` (valid numbers will be 0-5), and `quarterInPlay` (valid values are true and false).",
+      "line": 8
     },
     {
       "file": "main.js",
-      "description": "Create three new variables that will keep track of the `currentQuarter` (valid numbers will be 1-4), `playersOnCourt` (valid numbers will be 0-5), and `quarterInPlay` (valid values are true and false).",
-      "line": 8
+      "line": 4,
+      "description": "Create two new constants called `maxPlayersOnCourt` and `numQuarters` that are used to validate that the coach has 5 players on the court before each quarter starts and only tries to play 4 quarters."
     },
     {
       "file": "main.js",
